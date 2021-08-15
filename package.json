@@ -1,0 +1,20 @@
+{
+  "name": "properties-translator",
+  "version": "1.0.0",
+  "description": "Properties file translator using Azure for Node.js",
+  "main": "src/PropertiesTranslator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Lucas Oliveira",
+    "github": "github.com/Luucca"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "properties-reader": "^2.2.0",
+    "uuid": "^8.3.2"
+  }
+}
